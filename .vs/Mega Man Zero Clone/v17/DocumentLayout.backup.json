@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|c:\\users\\crazy\\onedrive\\documents\\tertiaryeducation\\sheridan\\year 3\\winter\\prog34107\\mega man zero clone\\assets\\scripts\\swordhitboxlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swordhitboxlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|c:\\users\\crazy\\onedrive\\documents\\tertiaryeducation\\sheridan\\year 3\\winter\\prog34107\\mega man zero clone\\assets\\scripts\\controllers\\enemytypeonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\enemytypeonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\aspects\\isenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\aspects\\isenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\followlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\controllers\\goblincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\goblincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\aspects\\isplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\aspects\\isplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\pitlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pitlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\movingplatformlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingplatformlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\blasterlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blasterlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\shieldlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shieldlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\controllers\\enemytypetwocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\enemytypetwocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\hammerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hammerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\projectilelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectilelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\controllers\\enemytypethreecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\enemytypethreecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\swordlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swordlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\aspects\\issword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\aspects\\issword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\controllers\\bossmaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\bossmaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\controllers\\bossmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\bossmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\controllers\\bosslhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\bosslhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\controllers\\bossrhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\bossrhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\boltlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boltlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\scripts\\cameralogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB831B1-0ABC-77F5-B768-10221418906D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameralogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\jumpdownlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\jumpdownlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\jumpuplogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\jumpuplogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\runlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\runlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\swordcastlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\swordcastlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\goblindeathlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\goblindeathlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\goblinattackinglogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\goblinattackinglogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\takedamagelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\takedamagelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\assets\\deathlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\deathlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwordHitboxLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\SwordHitboxLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SwordHitboxLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\SwordHitboxLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SwordHitboxLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:29:37.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1924764005:0:{13143d73-808b-4a2f-bebb-ccbe9c93fe37}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyTypeOneController.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\EnemyTypeOneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\EnemyTypeOneController.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\EnemyTypeOneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\EnemyTypeOneController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:42:40.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FollowLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\FollowLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\FollowLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowLogic.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:46:36.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoblinController.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\GoblinController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\GoblinController.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\GoblinController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\GoblinController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:14:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "isPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Aspects\\isPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Aspects\\isPlayer.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Aspects\\isPlayer.cs",
+              "RelativeToolTip": "Assets\\Aspects\\isPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:36:55.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JumpDownLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\JumpDownLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\JumpDownLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\JumpDownLogic.cs",
+              "RelativeToolTip": "Assets\\JumpDownLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:46:15.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JumpUpLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\JumpUpLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\JumpUpLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\JumpUpLogic.cs",
+              "RelativeToolTip": "Assets\\JumpUpLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:46:12.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RunLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\RunLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\RunLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\RunLogic.cs",
+              "RelativeToolTip": "Assets\\RunLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:45:33.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:47:07.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SwordCastLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\SwordCastLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\SwordCastLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\SwordCastLogic.cs",
+              "RelativeToolTip": "Assets\\SwordCastLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:06:49.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GoblinDeathLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\GoblinDeathLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\GoblinDeathLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\GoblinDeathLogic.cs",
+              "RelativeToolTip": "Assets\\GoblinDeathLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:22:30.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GoblinAttackingLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\GoblinAttackingLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\GoblinAttackingLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\GoblinAttackingLogic.cs",
+              "RelativeToolTip": "Assets\\GoblinAttackingLogic.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:58:22.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovingPlatformLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\MovingPlatformLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingPlatformLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\MovingPlatformLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingPlatformLogic.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:44:10.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TakeDamageLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\TakeDamageLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\TakeDamageLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\TakeDamageLogic.cs",
+              "RelativeToolTip": "Assets\\TakeDamageLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:47:37.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwE0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:16:32.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeathLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\DeathLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\DeathLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\DeathLogic.cs",
+              "RelativeToolTip": "Assets\\DeathLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:43:10.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "isEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Aspects\\isEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Aspects\\isEnemy.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Aspects\\isEnemy.cs",
+              "RelativeToolTip": "Assets\\Aspects\\isEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:20:54.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "isSword.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Aspects\\isSword.cs",
+              "RelativeDocumentMoniker": "Assets\\Aspects\\isSword.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Aspects\\isSword.cs",
+              "RelativeToolTip": "Assets\\Aspects\\isSword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:14:07.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SwordLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\SwordLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SwordLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\SwordLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SwordLogic.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:04:44.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BossRHController.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\BossRHController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\BossRHController.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\BossRHController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\BossRHController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:00:12.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BossLHController.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\BossLHController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\BossLHController.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\BossLHController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\BossLHController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:00:09.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BossManager.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\BossManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\BossManager.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\BossManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\BossManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:45:03.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BossMainController.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\BossMainController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\BossMainController.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\BossMainController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\BossMainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:25:07.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BoltLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\BoltLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoltLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\BoltLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoltLogic.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:07:11.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlasterLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\BlasterLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlasterLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\BlasterLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlasterLogic.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:53:18.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShieldLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\ShieldLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShieldLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\ShieldLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShieldLogic.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:57:20.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyTypeThreeController.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\EnemyTypeThreeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\EnemyTypeThreeController.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\EnemyTypeThreeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\EnemyTypeThreeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T04:49:14.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HammerLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\HammerLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HammerLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\HammerLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HammerLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:48:55.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectileLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\ProjectileLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\ProjectileLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T04:15:29.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyTypeTwoController.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\EnemyTypeTwoController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\EnemyTypeTwoController.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\Controllers\\EnemyTypeTwoController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\EnemyTypeTwoController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T04:34:54.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PitLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\PitLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PitLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\PitLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PitLogic.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:22:00.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CameraLogic.cs",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\CameraLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraLogic.cs",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Documents\\TertiaryEducation\\Sheridan\\Year 3\\Winter\\PROG34107\\Mega Man Zero Clone\\Assets\\Scripts\\CameraLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:14:25.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
