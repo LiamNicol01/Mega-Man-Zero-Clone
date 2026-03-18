@@ -37,3 +37,24 @@ UserSettings/
 
 # Others
 *.DS_Store
+
+# Licensed Assets - Do not commit
+Assets/Adventure Gaming Music Suite/
+Assets/Adventure Gaming Music Suite.meta
+
+Assets/Assets/Animations/Boss Animations/
+Assets/Assets/Animations/Boss Animations.meta
+
+Assets/Assets/Animations/Goblin Animations/
+Assets/Assets/Animations/Goblin Animations.meta
+
+Assets/Assets/Animations/Player Animations/
+Assets/Assets/Animations/Player Animations.meta
+
+Assets/Assets/Models
+
+Assets/Casual Game Sounds U6/
+Assets/Casual Game Sounds U6.meta
+
+Assets/Leohpaz/
+Assets/Leohpaz.meta
