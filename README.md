@@ -55,8 +55,12 @@ Hold R: Cast Magic AoE
 ## Limitations
 
 The movement doesn't feel very good.
+
 The collision detection leaves something to be desired.
+
 The level isn't very scenic or pretty.
+
+The UI text on screen was build for within the editor, so the text is noticeably closer to the center of the screen.
 
 ## Languages Used
 
